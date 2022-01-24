@@ -1,0 +1,13 @@
+animal:dragon
+animal:walrus
+animal:dog
+animal:
+adjective:happy
+place:cave
+adjective:peculiar
+adjective:scary
+adjective:peaceful
+:
+:a
+:b
+:a

@@ -1,0 +1,55 @@
+Grading at 09/10/2021:03:09:44.975797
+For commit ID f86e778e4e1fc05e3b8e360a3c0ee5620ad66df7
+Grading at Fri Sep 10 11:09:44 CST 2021
+**Testing broken implementation 10 **
+-------------------------------------
+
+The case that x=4 and y=3 is wrong!
+**Testing broken implementation 11 **
+-------------------------------------
+
+The case that x=4294967295 and y=1 is wrong!
+**Testing broken implementation 1 **
+-------------------------------------
+
+The case that x=2 and y=1 is wrong!
+**Testing broken implementation 2 **
+-------------------------------------
+
+The case that x=2 and y=0 is wrong!
+**Testing broken implementation 3 **
+-------------------------------------
+
+The case that x=0 and y=0 is wrong!
+**Testing broken implementation 4 **
+-------------------------------------
+
+The case that x=4294967295 and y=1 is wrong!
+**Testing broken implementation 5 **
+-------------------------------------
+
+The case that x=4 and y=3 is wrong!
+**Testing broken implementation 6 **
+-------------------------------------
+
+The case that x=1 and y=1 is wrong!
+**Testing broken implementation 7 **
+-------------------------------------
+
+The case that x=1 and y=1 is wrong!
+**Testing broken implementation 8 **
+-------------------------------------
+
+The case that x=4 and y=3 is wrong!
+**Testing broken implementation 9 **
+-------------------------------------
+
+The case that x=1 and y=1 is wrong!
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
